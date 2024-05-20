@@ -1,0 +1,8 @@
+-User enter expenses
+-User enter budget
+-save expense to csv file
+-save budget to csv file
+-show date and time of the expense
+-show budget left after every expense
+-Summarise expense totals
+-Show remaining budget(budget-expense/day left for the month)
